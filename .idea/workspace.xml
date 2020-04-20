@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1970a1fb-3309-4bc1-a81d-92c01d5f82b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Selenium_tests/zobaczmy.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="allegro_tests" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../Selenium_tests" source="origin/branch" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Selenium_tests" value="7a1ebb3feeeff48a2ba87c16320384d50b2c9380" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Selenium_tests" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/mpasiak/Selenium.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z8rvZsAwjveP8uFZeEqorJ8TPg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium_tests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Warpath\PycharmProjects\allegro_tests\venv\ASTA" />
+      <recent name="C:\Users\Warpath\PycharmProjects\allegro_tests\venv" />
+      <recent name="C:\Users\Warpath\PycharmProjects\allegro_tests\venv\POM_Demo\Tests" />
+      <recent name="C:\Users\Warpath\PycharmProjects\allegro_tests\venv\Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Warpath\PycharmProjects\allegro_tests\venv\POM_Demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Tests_Task1.test_task1">
+    <configuration name="Page_Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ASTA/Pages/Page_Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Page_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Warpath\PycharmProjects\Selenium\venv\ASTA\Pages\Page_Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTest" type="tests" factoryName="Unittests">
+      <module name="Selenium_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Warpath\PycharmProjects\allegro_tests\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_Task1.test_task1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Warpath\PycharmProjects\Selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_Task1.test_task1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_Task1.test_task1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Warpath\PycharmProjects\Selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Selenium_tests/venv/ASTA/Tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_Task1.test_task1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_Task1.test_task1.test_delete_from_basket" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_Task1.test_task1.test_delete_from_basket&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_Task1.test_task1.test_more_than_100" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_Task1.test_task1.test_more_than_100&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Tests_Task1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ASTA/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/venv/ASTA/Tests/Tests_Task1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Page_Task1" />
+      <item itemvalue="Python.Page_Task1 (1)" />
+      <item itemvalue="Python tests.LoginTest" />
+      <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1.test_more_than_100" />
+      <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1" />
+      <item itemvalue="Python tests.Unittests in Tests_Task1.py" />
+      <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1.test_delete_from_basket" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1" />
+        <item itemvalue="Python.Page_Task1 (1)" />
+        <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1.test_delete_from_basket" />
+        <item itemvalue="Python tests.Unittests in Tests_Task1.py" />
+        <item itemvalue="Python tests.Unittests for Tests_Task1.test_task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1970a1fb-3309-4bc1-a81d-92c01d5f82b9" name="Default Changelist" comment="" />
+      <created>1584231793235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584231793235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="130" key="#Tests_Task1" timestamp="1587257920802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="130" key="#Tests_Task1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587257920802" />
+    <state x="679" y="140" key="#Unittests_for_Tests_Task1.test_task1" timestamp="1587264912359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="152" key="#Unittests_for_Tests_Task1.test_task1.test_more_than_100" timestamp="1587314782405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="152" key="#Unittests_for_Tests_Task1.test_task1.test_more_than_100/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587314782405" />
+    <state x="679" y="140" key="#Unittests_for_Tests_Task1.test_task1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587264912359" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587266509301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587266509301" />
+    <state x="711" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587334165728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587334165728" />
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586901428954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586901428954" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1587261328991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587261328991" />
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog" timestamp="1587264803772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587264803772" />
+    <state width="949" height="282" key="GridCell.Tab.0.bottom" timestamp="1587338292462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587338292462" />
+    <state width="949" height="282" key="GridCell.Tab.0.center" timestamp="1587338292462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587338292462" />
+    <state width="949" height="282" key="GridCell.Tab.0.left" timestamp="1587338292461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587338292461" />
+    <state width="949" height="282" key="GridCell.Tab.0.right" timestamp="1587338292462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587338292462" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1587176257778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587176257778" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1587176257778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587176257778" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1587176257778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587176257778" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1587176257778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587176257778" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1587333317488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587333317488" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587341078717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587341078717" />
+    <state x="531" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587171425739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587171425739" />
+  </component>
+</project>
